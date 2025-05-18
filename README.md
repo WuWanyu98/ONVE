@@ -54,23 +54,24 @@ weight: controls the glow separation degree
 
 ## 📚 Citation
 If you use this code, please cite both our works:
-
-bibtex
-@article{your2025tcsvt,
-  title={Your TCSVT 2025 Paper Title},
-  author={Name, Your and Author, Co},
+```
+@article{wu2024overall,
+  title={For Overall Nighttime Visibility: Integrate Irregular Glow Removal with Glow-aware Enhancement},
+  author={Wu, Wanyu and Wang, Wei and Wang, Zheng and Jiang, Kui and Li, Zhengguo},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2025}
+  year={2024},
+  publisher={IEEE}
 }
 
-@inproceedings{your2023ijcai,
-  title={Your IJCAI 2023 Paper Title},
-  author={Name, Your and Author, Co},
-  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
+@article{wu2023generation,
+  title={From generation to suppression: towards effective irregular glow removal for nighttime visibility enhancement},
+  author={Wu, Wanyu and Wang, Wei and Wang, Zheng and Jiang, Kui and Xu, Xin},
+  journal={arXiv preprint arXiv:2307.16783},
   year={2023}
 }
+```
 
 ## 🙏 Acknowledgments
 This implementation is built upon:
-Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 202X)
+[Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gandelsman_Double-DIP_Unsupervised_Image_Decomposition_via_Coupled_Deep-Image-Priors_CVPR_2019_paper.pdf)
 
