@@ -6,8 +6,8 @@
 > **For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement**  
 > [Wanyu Wu], [Wei Wang]*, [Zheng Wang], [Kui Jiang], [Zhengguo Li]. 
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
-> **Extended from our IJCAI 2023 paper**: [From Generation to Suppression: Towards Effective Irregular Glow Removal for
-Nighttime Visibility Enhancement]  
+> **Extended from our IJCAI 2023 paper**: **From Generation to Suppression: Towards Effective Irregular Glow Removal for
+Nighttime Visibility Enhancement**
 
 📄 [TCSVT Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 📄 [IJCAI Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 🌟 **Star this repo if you find it useful!**
 
