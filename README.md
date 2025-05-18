@@ -15,7 +15,7 @@ Nighttime Visibility Enhancement]
 
 ## 🗂️ Datasets
 Our method is **training-free** (no separate training phase required). The testing is performed directly on:
-- [Light-effects Dataset]([http://cvlab.postech.ac.kr/research/illumination_enhancement/](https://github.com/jinyeying/night-enhancement))
+- [Light-effects Dataset](http://cvlab.postech.ac.kr/research/illumination_enhancement/](https://github.com/jinyeying/night-enhancement)
 - [Flare7K Dataset](https://github.com/ykdai/Flare7K)
 
 ---
