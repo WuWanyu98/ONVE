@@ -2,7 +2,7 @@
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 
-> **Official code for TCSVT 2025**:  
+> **Official code for the following paper**:  
 > **For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement**  
 > [Wanyu Wu], [Wei Wang]*, [Zheng Wang], [Kui Jiang], [Zhengguo Li]. 
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
