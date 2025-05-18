@@ -4,7 +4,7 @@
 
 > **Official code for TCSVT 2025**:  
 > **For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement**  
-> [Wanyu Wu], [Wei Wang]*, [Zheng Wang], [Kui Jiang], [Zhengguo Li]
+> [Wanyu Wu], [Wei Wang]*, [Zheng Wang], [Kui Jiang], [Zhengguo Li]. 
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
 > **Extended from our IJCAI 2023 paper**: [From Generation to Suppression: Towards Effective Irregular Glow Removal for
 Nighttime Visibility Enhancement]  
@@ -29,15 +29,18 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 Training & Testing
-Two-step Execution:
-Generate illumination hints:
 
-bash
-python segment.py --input [image_folder] --output [hint_folder]
-Perform glow removal and enhancement:
+### Two-step Execution:
 
-bash
+#### 1. Generate illumination hints:
+```bash
+python segment.py
+
+
+#### 2. Perform glow removal and enhancement:
+```bash
 python Deglow.py
+
 Key Notes:
 We added TV loss (controlled by --tv_lambda) to reduce checkerboard artifacts in glow maps
 
