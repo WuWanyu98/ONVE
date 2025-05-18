@@ -33,6 +33,8 @@ conda create -n deglow python=3.8
 conda activate deglow
 pip install -r requirements.txt
 
+---
+
 ## 🚀 Training & Testing
 Two-step Execution:
 Generate illumination hints:
@@ -52,7 +54,9 @@ gamma: controls brightness enhancement intensity
 
 weight: controls glow separation degree
 
-## 📚 Citation
+---
+
+##📚 Citation
 If you use this code, please cite both our works:
 
 bibtex
