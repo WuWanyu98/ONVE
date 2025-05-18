@@ -25,7 +25,7 @@ Our method is **training-free** (no separate training phase required). The testi
 conda create -n deglow python=3.8
 conda activate deglow
 pip install -r requirements.txt
-
+```
 ---
 
 ## 🚀 Training & Testing
@@ -35,24 +35,24 @@ pip install -r requirements.txt
 #### 1. Generate illumination hints:
 ```bash
 python segment.py
-
+```
 
 #### 2. Perform glow removal and enhancement:
 ```bash
 python Deglow.py
-
-Key Notes:
-We added TV loss (controlled by --tv_lambda) to reduce checkerboard artifacts in glow maps
+```
+#### Key Notes:
+We added TV loss to reduce checkerboard artifacts in glow maps
 
 Two adjustable parameters:
 
 gamma: controls brightness enhancement intensity
 
-weight: controls glow separation degree
+weight: controls the glow separation degree
 
 ---
 
-##📚 Citation
+## 📚 Citation
 If you use this code, please cite both our works:
 
 bibtex
@@ -74,5 +74,3 @@ bibtex
 This implementation is built upon:
 Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 202X)
 
-🛠️ Maintained by: [Your Name] (Personal Website)
-📧 Contact: your.email@institution.edu
