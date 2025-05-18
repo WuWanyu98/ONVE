@@ -1,9 +1,3 @@
-#ONVE
-
-This repository contains code that accompanies the following paper:
-
-For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement. IEEE TCSVT (2025).
-
 # [Project Name] - Official PyTorch Implementation
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
@@ -11,7 +5,7 @@ For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Awa
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > **Official code for TCSVT 2025**:  
-> **[Paper Title]**  
+> **For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement**  
 > [Your Name]*, [Co-Author] (*Corresponding Author)  
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
 > **Extended from our IJCAI 2023 paper**: [IJCAI Paper Title]  
