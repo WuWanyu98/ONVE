@@ -15,15 +15,13 @@ Nighttime Visibility Enhancement]
 
 ## 🗂️ Datasets
 Our method is **training-free** (no separate training phase required). The testing is performed directly on:
-- [Sharma Dataset](http://cvlab.postech.ac.kr/research/illumination_enhancement/)
+- [Light-effects Dataset]([http://cvlab.postech.ac.kr/research/illumination_enhancement/](https://github.com/jinyeying/night-enhancement))
 - [Flare7K Dataset](https://github.com/ykdai/Flare7K)
 
 ---
 
 ## 🛠️ Installation
 ```bash
-conda create -n deglow python=3.8
-conda activate deglow
 pip install -r requirements.txt
 ```
 ---
@@ -72,6 +70,6 @@ If you use this code, please cite both our works:
 ```
 
 ## 🙏 Acknowledgments
-This implementation is built upon:
+Our code implementation is built upon:
 [Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gandelsman_Double-DIP_Unsupervised_Image_Decomposition_via_Coupled_Deep-Image-Priors_CVPR_2019_paper.pdf)
 
