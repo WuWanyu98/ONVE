@@ -40,18 +40,18 @@ python segment.py
 python Deglow.py
 ```
 #### Key Notes:
-We added TV loss to reduce checkerboard artifacts in glow maps
+1. We added TV loss to reduce checkerboard artifacts in glow maps
 
-Two adjustable parameters:
+2. Two adjustable parameters:
 
-gamma: controls brightness enhancement intensity
+- gamma: controls brightness enhancement intensity
 
-weight: controls the glow separation degree
+- weight: controls the glow separation degree
 
 ---
 
 ## 📚 Citation
-If you use this code, please cite both our works:
+If you find this repo useful, please cite our works:
 ```
 @article{wu2024overall,
   title={For Overall Nighttime Visibility: Integrate Irregular Glow Removal with Glow-aware Enhancement},
