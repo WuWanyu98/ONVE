@@ -39,12 +39,12 @@ pip install -r requirements.txt
 python segment.py
 ```
 
-#### 2. Perform glow removal and enhancement:
+#### 2. Perform glow removal and brightness enhancement:
 ```bash
 python Deglow.py
 ```
 #### Key Notes:
-1. We added TV loss to reduce checkerboard artifacts in glow maps
+1. We added TV loss to reduce checkerboard artifacts in glow maps, which differs from the loss setting in the paper.
 
 2. Two adjustable parameters:
 
