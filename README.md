@@ -10,6 +10,7 @@
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*
 >
 > **Extended from our IJCAI 2023 paper**:
+> 
 > **From Generation to Suppression: Towards Effective Irregular Glow Removal for
 Nighttime Visibility Enhancement**
 
@@ -65,10 +66,11 @@ If you find this repo useful, please cite our works:
   publisher={IEEE}
 }
 
-@article{wu2023generation,
+@inproceedings{wu2023generation,
   title={From generation to suppression: towards effective irregular glow removal for nighttime visibility enhancement},
   author={Wu, Wanyu and Wang, Wei and Wang, Zheng and Jiang, Kui and Xu, Xin},
-  journal={arXiv preprint arXiv:2307.16783},
+  booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+  pages={1533--1541},
   year={2023}
 }
 ```
