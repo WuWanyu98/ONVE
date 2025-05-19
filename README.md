@@ -1,15 +1,16 @@
 # ONVE
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
-![PyTorch 1.12](https://img.shields.io/badge/pytorch-1.12-%23EE4C2C.svg)
+![PyTorch 2.4.1](https://img.shields.io/badge/pytorch-2.4.1-%23EE4C2C.svg)
 
 > **Official code for the following paper**:
-
+>
 > **For Overall Nighttime Visibility: Integrate Irregular Glow Removal With Glow-Aware Enhancement**  
-> [Wanyu Wu], [Wei Wang]*, [Zheng Wang], [Kui Jiang], [Zhengguo Li]. 
+> Wanyu Wu, Wei Wang*, Zheng Wang, Kui Jiang, Zhengguo Li. 
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*
-
-> **Extended from our IJCAI 2023 paper**: **From Generation to Suppression: Towards Effective Irregular Glow Removal for
+>
+> **Extended from our IJCAI 2023 paper**:
+> **From Generation to Suppression: Towards Effective Irregular Glow Removal for
 Nighttime Visibility Enhancement**
 
 📄 [TCSVT Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 📄 [IJCAI Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 🌟 **Star this repo if you find it useful!**
