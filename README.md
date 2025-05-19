@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 #### 1. Generate illumination hints:
 ```bash
-python segment.py
+python Segment.py
 ```
 
 #### 2. Perform glow removal and brightness enhancement:
