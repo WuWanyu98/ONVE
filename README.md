@@ -18,19 +18,13 @@ Nighttime Visibility Enhancement**
 
 ---
 
-<div align="center" style="color: #FF6B6B; font-size: 20px;">
-  ✨・・・・・・・・☆・・・・・・・・✨
-</div>
-
+## 📝 Abstract
 In the pursuit of Overall Nighttime Visibility Enhancement, our pipeline consists of a glow suppression module LBDN and a progressive enhancement module GRE with 3 stages. This proposed pipeline is
 based on zero-shot learning without any training data. The glow is first decomposed to obtain in LBDN and refined with an APSF generator. Then the
 obtained transmission D is fed into GRE for illumination enhancement via Retinex Enhancement modules REM, guided by the grayscaled glow map GM.
 
 ![flow0401](https://github.com/user-attachments/assets/d3f91e26-2df1-40d9-b250-8dd72893c55c)
 
-<div align="center" style="color: #FF6B6B; font-size: 20px;">
-  ✨・・・・・・・・☆・・・・・・・・✨
-</div>
 
 ---
 
