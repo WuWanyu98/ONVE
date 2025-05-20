@@ -49,9 +49,9 @@ python Deglow.py
 
 2. Two adjustable parameters:
 
-- gamma: controls brightness enhancement intensity
+- *gamma: controls brightness enhancement intensity*
 
-- weight: controls the glow separation degree
+- *weight: controls the glow separation degree*
 
 ---
 
