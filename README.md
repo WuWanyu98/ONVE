@@ -18,7 +18,9 @@ Nighttime Visibility Enhancement**
 
 ---
 
-In the pursuit of Overall Nighttime Visibility Enhancement (ONVE), this paper proposes a physical model-guided framework ONVE to derive a Nighttime Imaging Model with Near-Field Light Sources (NIM-NLS), whose APSF prior generator is validated efficiently in six categories of glow shapes. Guided by this physical-world model as domain knowledge, we subsequently develop an extensible Light-aware Blind Deconvolution Network (LBDN) to face the blind decomposition challenge on direct transmission map D and light source map G based on APSF. Then, a glow-guided, retinex-based progressive enhancement module (GRE) is introduced as a further optimization of reflection R from D to harmonize the conflict between glow removal and brightness boost. Notably, ONVE is an unsupervised framework based on a zero-shot learning strategy and uses physical domain knowledge to form the overall pipeline and network. 
+In the pursuit of Overall Nighttime Visibility Enhancement, our pipeline consists of a glow suppression module LBDN and a progressive enhancement module GRE with 3 stages. This proposed pipeline is
+based on zero-shot learning without any training data. The glow is first decomposed to obtain in LBDN and refined with an APSF generator. Then the
+obtained transmission D is fed into GRE for illumination enhancement via Retinex Enhancement modules REM, guided by the grayscaled glow map GM.
 
 ![flow0401](https://github.com/user-attachments/assets/d3f91e26-2df1-40d9-b250-8dd72893c55c)
 
