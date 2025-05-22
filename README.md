@@ -11,8 +11,7 @@
 >
 > **Extended from our Conference paper**:
 > 
-> **From Generation to Suppression: Towards Effective Irregular Glow Removal for
-Nighttime Visibility Enhancement**
+> **From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**
 > Wanyu Wu, Wei Wang*, Zheng Wang, Kui Jiang, Xin Xu.
 > *‌International Joint Conference on Artificial Intelligence (IJCAI), 2023*
 
