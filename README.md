@@ -9,10 +9,12 @@
 > Wanyu Wu, Wei Wang*, Zheng Wang, Kui Jiang, Zhengguo Li. 
 > *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*
 >
-> **Extended from our IJCAI 2023 paper**:
+> **Extended from our Conference paper**:
 > 
 > **From Generation to Suppression: Towards Effective Irregular Glow Removal for
 Nighttime Visibility Enhancement**
+> Wanyu Wu, Wei Wang*, Zheng Wang, Kui Jiang, Xin Xu.
+> *‌International Joint Conference on Artificial Intelligence (IJCAI), 2023*
 
 📄 [TCSVT Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 📄 [IJCAI Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 🌟 **Star this repo if you find it useful!**
 
