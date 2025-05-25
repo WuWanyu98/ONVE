@@ -15,7 +15,7 @@
 > Wanyu Wu, Wei Wang*, Zheng Wang, Kui Jiang, Xin Xu.
 > *‌International Joint Conference on Artificial Intelligence (IJCAI), 2023*
 
-📄 [TCSVT Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 📄 [IJCAI Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 🌟 **Star this repo if you find it useful!**
+📄 [TCSVT Paper](https://ieeexplore.ieee.org/abstract/document/10685529) | 📄 [IJCAI Paper]([https://dl.acm.org/doi/abs/10.24963/ijcai.2023/170]) | 🌟 **Star this repo if you find it useful!**
 
 
 ---
