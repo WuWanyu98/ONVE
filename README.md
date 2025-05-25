@@ -69,7 +69,7 @@ python Deglow.py
 ---
 
 ## 📚 Citation
-If you find this repo useful, please cite our works:
+If you find this repo useful, please consider to cite our works:
 ```
 @article{wu2024overall,
   title={For Overall Nighttime Visibility: Integrate Irregular Glow Removal with Glow-aware Enhancement},
@@ -90,5 +90,5 @@ If you find this repo useful, please cite our works:
 
 ## 🙏 Acknowledgments
 Our code implementation is built upon:
-[Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gandelsman_Double-DIP_Unsupervised_Image_Decomposition_via_Coupled_Deep-Image-Priors_CVPR_2019_paper.pdf)
+[Double-DIP: Unsupervised Image Decomposition via Double Deep Image Priors (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gandelsman_Double-DIP_Unsupervised_Image_Decomposition_via_Coupled_Deep-Image-Priors_CVPR_2019_paper.pdf), thanks for their excellent work!
 
